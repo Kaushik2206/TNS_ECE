@@ -1,7 +1,7 @@
 package com.tnsif.day6;
 
-public class Student extends Citizen {
-	private in rollno;
-	private String
+public class Student {
+	private int rollno;
+	private String name;
 
 }
